@@ -1,4 +1,0 @@
-﻿vm_memory,vm_cpu,resource_pool,template_name,datastore_name,datacenter,vm_domain,vm_prefix
-2048,2,IST-Demo,centos7min,NAS,DC1,IST-Demo,euijung-1
-2048,2,IST-Demo,centos7min,NAS,DC1,IST-Demo,euijung-2
-2048,2,IST-Demo,centos7min,NAS,DC1,IST-Demo,euijung-3
