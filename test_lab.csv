@@ -1,4 +1,4 @@
-﻿vm_memory,ipv4_gateway,vm_cpu,index,resource_pool,ipv4_netmask,template_name,dns_server_list,network_name,datastore_name,datacenter,vm_domain,ip,vm_prefix,memory
-2048,10.70.136.1,2,0,IST-Demo,24,centos7min,10.70.136.9,MGMT-Net_136.x,NAS,DC1,IST-Demo,1.1.1.1,euijung-1,2048
-2048,10.70.136.1,2,1,IST-Demo,24,centos7min,10.70.136.9,MGMT-Net_136.x,NAS,DC1,IST-Demo,1.1.1.2,euijung-2,2048
-2048,10.70.136.1,2,2,IST-Demo,24,centos7min,10.70.136.9,MGMT-Net_136.x,NAS,DC1,IST-Demo,1.1.1.3,euijung-3,2048
+﻿vm_memory,ipv4_gateway,vm_cpu,index,resource_pool,ipv4_netmask,template_name,dns_server_list,network_name,datastore_name,datacenter,vm_domain,ip,vm_prefix
+2048,10.70.136.1,2,0,IST-Demo,24,centos7min,10.70.136.9,MGMT-Net_136.x,NAS,DC1,IST-Demo,1.1.1.1,euijung-1
+2048,10.70.136.1,2,1,IST-Demo,24,centos7min,10.70.136.9,MGMT-Net_136.x,NAS,DC1,IST-Demo,1.1.1.2,euijung-2
+2048,10.70.136.1,2,2,IST-Demo,24,centos7min,10.70.136.9,MGMT-Net_136.x,NAS,DC1,IST-Demo,1.1.1.3,euijung-3
